@@ -1,7 +1,1 @@
-AndroidIDEOfficial/AndroidIDE|
-
-
-owner/repo|filter1|filter2
-NullLatency/FlowDriver|linux-amd64|darwin-amd64
-KaringX/karing|\.dmg|\.exe
-# masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip|Client_Windows_AMD64.zip
+AndroidIDEOfficial/AndroidIDE|androidide-v2\.7\.1-beta-arm64-v8a\.apk
