@@ -1,5 +1,4 @@
-# See 'repos.txt.example' file
-
-# Format: owner/repo|filter1|filter2|...
-# Filters are case‑insensitive regular expressions (grep -E).
-
+owner/repo|filter1|filter2
+NullLatency/FlowDriver|linux-amd64|darwin-amd64
+KaringX/karing|\.dmg|\.exe
+# masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip|Client_Windows_AMD64.zip
