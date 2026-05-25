@@ -1,3 +1,6 @@
+AndroidIDEOfficial/AndroidIDE|
+
+
 owner/repo|filter1|filter2
 NullLatency/FlowDriver|linux-amd64|darwin-amd64
 KaringX/karing|\.dmg|\.exe
